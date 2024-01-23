@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "767940846745",
+    "firebase_url": "https://tugasmobileakhir1-default-rtdb.firebaseio.com",
+    "project_id": "tugasmobileakhir1",
+    "storage_bucket": "tugasmobileakhir1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767940846745:android:861eccd7b21b98b476c408",
+        "android_client_info": {
+          "package_name": "com.example.tugasmobileakhir1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStAGYHiR2rOWjpNrnD9GIybl1CckwM_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767940846745:android:377b49e2a006dac476c408",
+        "android_client_info": {
+          "package_name": "com.example.tugasmobiles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStAGYHiR2rOWjpNrnD9GIybl1CckwM_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
